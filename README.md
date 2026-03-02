@@ -1,3 +1,6 @@
 # New Project
 
-This project was created from loval system
+This project was created from local system
+  
+  Created by Manas Khankari 
+  
